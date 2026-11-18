@@ -1,4 +1,0 @@
-rank,name,final_equity
-1,TradingAgent on VOLT,11218.8
-2,TradingAgent on VOLT from day 11,11021.02
-3,Manual on VOLT,9789.09

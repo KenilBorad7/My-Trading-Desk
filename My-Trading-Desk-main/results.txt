@@ -1,3 +1,0 @@
-TradingAgent on VOLT,11218.8,183
-Manual on VOLT,9789.09,4
-TradingAgent on VOLT from day 11,11021.02,184
